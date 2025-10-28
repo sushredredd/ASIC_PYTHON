@@ -1,0 +1,9 @@
+Startpoint: u_top/u_core/u_reg[3]/Q (rising edge)
+Endpoint:   u_top/u_core/u_reg[9]/D (rising edge)
+Path Group: core_clk
+WNS: -0.120  TNS: -57.000
+Slack (VIOLATED)  -0.120
+  0.00  clock   (insertion 0.150)
+  0.15  BUF_X4  u1
+  0.39  NAND2_X2 u2
+  0.58  NET ... 
