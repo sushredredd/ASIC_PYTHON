@@ -1,0 +1,6 @@
+pyyaml
+pandas
+tabulate
+black
+ruff
+pytest
